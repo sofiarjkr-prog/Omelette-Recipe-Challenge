@@ -1,2 +1,3 @@
 # Omelette-Recipe-Challenge
-This is a challenge by frontend mentor to code an omelette recipe and get it looking as close to the design in preview.jpg as possible.
+#Frontend Mentor - Recipe page solution
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
